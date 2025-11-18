@@ -44,12 +44,12 @@ npm install
 
 ### 2. Konfigurasi Environment
 
-Salin file `.env.example` menjadi `.env`:
+Salin file `.env_example` menjadi `.env`:
 
 ```bash
 cp .env.example .env
 # atau pada Windows:
-# copy .env.example .env
+# copy .env_example .env
 ```
 
 Buka file `.env` yang baru dibuat dan sesuaikan dengan kredensial database lokal kamu:
