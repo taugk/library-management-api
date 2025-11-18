@@ -70,9 +70,6 @@ Jalankan perintah berikut untuk inisialisasi database:
 ```bash
 # Inisialisasi database (membuat database, tabel, dan indexes)
 npm run init-db
-
-# Insert data sample (opsional - untuk testing)
-npm run sample-data
 ```
 
 ### 4. Jalankan Server
